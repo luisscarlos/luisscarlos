@@ -9,6 +9,5 @@ I'm Luis Carlos, a Computer Engineer student 👨‍💻 who is passionate about
 - 🔭 I’m currently working as Support Technical IT Jr at Grupo Edson Queiroz
 - 🌱 I’m currently learning the stack Node.js | ReactJS | React Native.
 - 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, and so on.
--  ⚡ Available for Freelance projects opportunities.
 
 "Do not expect from others what you expect of yourself." 
