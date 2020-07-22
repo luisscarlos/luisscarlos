@@ -6,7 +6,6 @@
 ## Hi 👋, 
 I'm Luis Carlos, a Computer Engineer student 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. I'm studying to become a Full Stack Developer.
 
-- 🔭 I’m currently working as Support Technical IT Jr at Grupo Edson Queiroz
 - 🌱 I’m currently learning the stack Node.js | ReactJS | React Native.
 - 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, and so on.
 
