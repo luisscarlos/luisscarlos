@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-luicalos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/luicalos)](https://twitter.com/luicalos)
 
 ## Hi 👋, 
-I'm Luis Carlos, a Computer Engineer student 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. I'm studying to become a Full Stack Developer.
+I'm Luis Carlos, a Computer Engineer Undergraduate 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-- 🌱 I’m currently learning the stack Node.js | ReactJS | React Native.
-- 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, and so on.
+- 🌱 I’m currently learning Java | ReactJS.
+- 💬 Ask me about Javascript / TypeScript, Node.js/Express.js, Java and so on.
 
 "Do not expect from others what you expect of yourself." 
