@@ -1,4 +1,3 @@
-# Luis Carlos
 [![Linkedin Badge](https://img.shields.io/badge/-luisscarlos-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/luisscarlos)](https://www.linkedin.com/in/luisscarlos/)
 [![Gmail Badge](https://img.shields.io/badge/-luisscarlostec@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisscarlostec@gmail.com)](mailto:danieltsutomu@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-luicalos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/luicalos)](https://twitter.com/luicalos)
