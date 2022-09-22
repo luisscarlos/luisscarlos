@@ -5,7 +5,7 @@
 ## Hi 👋, 
 I'm Luis Carlos, a Computer Engineer Undergraduate 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
-- 👨🏾‍💻 I'm FullStack Developer at [Getnet Brasil](https://site.getnet.com.br/) and I work with, [Spring Boot](https://spring.io/projects/spring-boot), [RabbitMQ](https://www.rabbitmq.com/), [MongoDB](https://www.mongodb.com/pt-br) and [Oracle DB](https://www.oracle.com/br/database/).
+- 👨🏾‍💻 I'm Java Backend Developer at [Getnet Brasil](https://site.getnet.com.br/) and I work with, [Spring Boot](https://spring.io/projects/spring-boot), [RabbitMQ](https://www.rabbitmq.com/), [MongoDB](https://www.mongodb.com/pt-br) and [Oracle DB](https://www.oracle.com/br/database/).
 - 💡 I’m currently improving my skills in back-end development with Spring Framework.
 
 "Do not expect from others what you expect of yourself." 
