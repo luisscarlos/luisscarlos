@@ -1,7 +1,3 @@
-[![Linkedin Badge](https://img.shields.io/badge/-luisscarlos-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/luisscarlos)](https://www.linkedin.com/in/luisscarlos/)
-[![Gmail Badge](https://img.shields.io/badge/-luisscarlostec@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisscarlostec@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-luicalos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/luicalos)](https://twitter.com/luicalos)
-
 ## Hi 👋, 
 I'm Luis Carlos, graduating in Computer Engineer and passionate about Java technologies and its entire ecosystem.
 
@@ -31,5 +27,10 @@ Technologies I've had contact with: <br/>
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### Let's talk
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisscarlos/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luisscarlostec@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/luicalos)
 
 "Do not expect from others what you expect of yourself." 
