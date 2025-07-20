@@ -1,11 +1,12 @@
 ## Hi 👋, 
 I'm Luis Carlos, graduating in Computer Engineer and passionate about Java technologies and its entire ecosystem.
 
-👨🏾‍💻 I'm a Java Backend Developer and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [Certified](https://www.credly.com/badges/06a06dfc-5261-4687-a8f4-b4e4f5e4729e/linked_in_profile). I work at [Elumini](https://www.elumini.com.br/en/) and often in contact with [Spring Boot](https://spring.io/projects/spring-boot), [Quarkus](https://quarkus.io/), [Docker](https://www.docker.com/), [Jenkins](https://www.jenkins.io/), [RabbitMQ](https://www.rabbitmq.com/), [MongoDB](https://www.mongodb.com/pt-br) and [Oracle DB](https://www.oracle.com/br/database/).
+👨🏾‍💻 I'm a Java Backend Developer and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [Certified](https://www.credly.com/badges/06a06dfc-5261-4687-a8f4-b4e4f5e4729e/linked_in_profile). I work at [VR](https://www.vr.com.br/) and often in contact with [Spring Boot](https://spring.io/projects/spring-boot), [Github Actions](https://github.com/features/actions), [Apache Kafka](https://kafka.apache.org/), [MongoDB](https://www.mongodb.com/pt-br) and [Kubernetes](https://kubernetes.io/).
 
 Technologies I've had contact with: <br/>
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_actions-231F20?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
