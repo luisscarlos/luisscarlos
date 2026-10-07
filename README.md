@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Luis Carlos, graduating in Computer Engineer and passionate about Java technologies and its entire ecosystem.
+I'm Luis Carlos, Senior Software Engineer and passionate about Java technologies and its entire ecosystem.
 
 👨🏾‍💻 I'm a Java Backend Developer and ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [Certified](https://www.credly.com/badges/06a06dfc-5261-4687-a8f4-b4e4f5e4729e/linked_in_profile). I work at [VR](https://www.vr.com.br/) and often in contact with [Spring Boot](https://spring.io/projects/spring-boot), [Github Actions](https://github.com/features/actions), [Apache Kafka](https://kafka.apache.org/), [MongoDB](https://www.mongodb.com/pt-br) and [Kubernetes](https://kubernetes.io/).
 
